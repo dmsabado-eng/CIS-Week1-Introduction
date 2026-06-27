@@ -7,7 +7,7 @@ For this project, I created a simple C++ program that introduces who I am. The p
 I created a C++ file called `main.cpp`. Inside the program, I used the `iostream` library and `cout` statements to display my introduction. I also used the `int` type to store the numbers 1, 3, 5, and 7 for the future year goals.
 
 ## Video
-Video explanation link: [Paste your video link here]
+Video explanation link: https://drive.google.com/file/d/1Nbe6aNXYcPUJF3VUcCAQJj687sNzEe3a/view?usp=drivesdk
 
 ## How to Run
 1. Open the code in a C++ compiler.
